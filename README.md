@@ -42,3 +42,7 @@ kubectl apply -f https://raw.githubusercontent.com/envoyproxy/gateway/latest/exa
 ```
 brew install egctl
 ```
+Get routes information
+```
+egctl config envoy-proxy route
+```
